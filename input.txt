@@ -1,0 +1,5 @@
+1 m = 100 cm
+1 m = 3.3 ft
+2 ft = 24 in
+1 yd = 3 ft
+10 in = 254 mm
